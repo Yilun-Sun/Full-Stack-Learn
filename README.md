@@ -10,6 +10,10 @@
 
 - <a href="https://github.com/Yilun-Sun/Full-Stack-Learn/blob/master/Angular/Note.md">Angular Note</a>
 
+### .Net
+
+- <a href="https://github.com/Yilun-Sun/Full-Stack-Learn/blob/master/.Net/Note.md">.Net Note</a>
+
 ### Concepts
 
 - <a href="https://github.com/Yilun-Sun/Full-Stack-Learn/blob/master/Concepts/Dependency Injection/DI.md">Dependency Injection</a>
