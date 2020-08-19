@@ -1,4 +1,4 @@
-<a href="https://github.com/Yilun-Sun/Full-Stack-Learn/blob/master/README.md">[Go to README.md]</a>
+<p dir='rtl' align='right'><a href="https://github.com/Yilun-Sun/Full-Stack-Learn/blob/master/README.md"> README.md➡</a></p>
 
 Any application is composed of many objects that collaborate with each other to perform some useful stuff. Traditionally each object is responsible for obtaining its own references to the dependent objects (dependencies) it collaborate with. This leads to highly coupled classes and hard-to-test code.
 
