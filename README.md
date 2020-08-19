@@ -2,7 +2,22 @@
 
 ## 📁 Content
 
+### MongoDB
+
 - <a href="https://github.com/Yilun-Sun/Full-Stack-Learn/blob/master/MongoDB/Note.md">MongoDB Note</a>
+
+### Angular
+
+- <a href="https://github.com/Yilun-Sun/Full-Stack-Learn/blob/master/Angular/Note.md">Angular Note</a>
+
+### Concepts
+
+- <a href="https://github.com/Yilun-Sun/Full-Stack-Learn/blob/master/Concepts/Dependency Injection/DI.md">Dependency Injection</a>
+- <a href="https://github.com/Yilun-Sun/Full-Stack-Learn/blob/master/Concepts/LINQ/LINQ.md">LINQ</a>
+
+### WorkFlow
+
+- <a href="https://github.com/Yilun-Sun/Full-Stack-Learn/blob/master/WorkFlow/Route.md">Route</a>
 
 <hr>
 
