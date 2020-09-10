@@ -19,6 +19,12 @@
 - <a href="https://github.com/Yilun-Sun/Full-Stack-Learn/blob/master/Concepts/Dependency Injection/DI.md">Dependency Injection</a>
 - <a href="https://github.com/Yilun-Sun/Full-Stack-Learn/blob/master/Concepts/LINQ/LINQ.md">LINQ</a>
 
+### Visual Studio
+
+- <a href="https://github.com/Yilun-Sun/Full-Stack-Learn/blob/master/Visual Studio/Note.md">Visual Studio Note</a>
+
+### Visual Studio Code
+
 ### WorkFlow
 
 - <a href="https://github.com/Yilun-Sun/Full-Stack-Learn/blob/master/WorkFlow/Route.md">Route</a>
