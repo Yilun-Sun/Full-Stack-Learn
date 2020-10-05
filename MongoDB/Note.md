@@ -7,7 +7,7 @@
 
 ### Structure:
 
-```
+```text
 └─document
     └─collection
         ├─record

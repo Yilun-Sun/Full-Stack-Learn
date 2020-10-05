@@ -1,0 +1,1 @@
+multipleChoiceModel store the choices in current question
