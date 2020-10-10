@@ -4,29 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "137d97bd1206a582",
+        "id": "0c4508758c83ffc5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Visual Studio/Shortcuts.md",
+            "file": "JavaScript/Hoisting.md.md",
             "mode": "source"
           }
-        },
-        "group": "af643c2527633623"
+        }
       },
       {
-        "id": "0c4508758c83ffc5",
+        "id": "6765d90399eb3922",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Visual Studio/Shortcuts.md",
+            "file": "JavaScript/Coding convention for JS.md.md",
             "mode": "preview"
           }
-        },
-        "group": "af643c2527633623"
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual Studio/Shortcuts.md"
+                "file": "JavaScript/Coding convention for JS.md.md"
               }
             }
           }
@@ -89,14 +87,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "JavaScript/Coding convention for JS.md.md",
+    "JavaScript/Hoisting.md.md",
+    "JavaScript/Note.md.md",
+    "JavaScript/Hoisting.md 1.md",
+    "JavaScript/Untitled.md",
+    "Angular/Note.md",
     "Visual Studio/Shortcuts.md",
     "WorkFlow/SurveyController js/AddMultipleOption().md",
     "WorkFlow/Survey/Survey Add Question.md",
-    "WorkFlow/Model/multipleChoiceModel.md",
-    "MongoDB/Note.md",
-    "WorkFlow/Route.md",
-    "Angular/Note.md",
-    "WorkFlow/Survey/Add Question.md",
-    "multipleChoiceModel.md"
+    "WorkFlow/Model/multipleChoiceModel.md"
   ]
 }
